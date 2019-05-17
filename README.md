@@ -38,7 +38,7 @@ import { SeamlessScroll } from 'react-native-seamless-scrolls';
 | ---------------| ------------------------------------------------ | ------- | ----------- |
 | direction      | 必选 方向 默认纵向'vertical' 横向'row'               | string  | ``vertical`` |
 | meter          | 选填 调节参数（在滚动元素有padding或margin时做对应调节，或处理ios和android兼容调节）| number  | ``0`` |
-| styles         | 必选 对应的滚动适口宽度或高度（width或height）也是滚动一个周期的对应值| Object  | ``null`` |
+| styles         | 必选 对应的滚动适口宽度或高度（width或height）一般为滚动元素总高（宽）度| Object  | ``null`` |
 | scrolltime     | 滚动一个周期所需时间（毫秒）                              | number  | ``5000`` |
 
 
