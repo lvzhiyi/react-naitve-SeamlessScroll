@@ -3,7 +3,7 @@ react-native 简单的无缝平滑滚动组件 用于横向或纵向的平滑滚
 
 ## Browsers
 
-* support IE9+, Chrome, Firefox, Safari
+* support ios and android
 
 ## Install
 
