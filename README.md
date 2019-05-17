@@ -15,7 +15,7 @@ react-native 简单的无缝平滑滚动组件 用于横向或纵向的平滑滚
 ## Usage
 
 ```jsx
-import { Progress } from 'react-native-seamless-scrolls';
+import { SeamlessScroll } from 'react-native-seamless-scrolls';
 
 <SeamlessScroll scrolltime={8000} direction='row' meter={20} styles={{ width: 320, flexDirection: 'row' }}>
   <View style={{ paddingRight: 20 }}>
