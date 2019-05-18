@@ -1,3 +1,7 @@
+## Screenshots
+
+<img src="./gif1.gif" />
+
 # react-naitve-SeamlessScroll
 react-native 简单的无缝平滑滚动组件 用于横向或纵向的平滑滚动
 
